@@ -1,5 +1,7 @@
 # Modbus Check 0.2.0-rc.11
 
+[Windows x64 설치 파일 다운로드](https://github.com/oryx-system/ModbusCheck-Releases/releases/download/v0.2.0-rc.11/ModbusCheck-0.2.0-rc.11-Setup-win-x64.exe) · [릴리스와 제한사항](https://github.com/oryx-system/ModbusCheck-Releases/releases/tag/v0.2.0-rc.11) · [SHA256](https://github.com/oryx-system/ModbusCheck-Releases/releases/download/v0.2.0-rc.11/SHA256SUMS.txt)
+
 **Excel 주소맵을 실제 통신 확인으로 이어가는 Windows용 Modbus 점검 도구입니다.** BMS·MES와 장비 연동 시 여러 워드의 숫자·문자열·비트 상태를 한 화면에서 살펴보고 기록할 수 있습니다.
 
 이 버전은 **사전 릴리스(RC)**입니다. 정식 안정판이 아닙니다.
